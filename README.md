@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Krinal Parmar]
+# 👋 Hi, I'm Krinal Parmar
 
 I'm passionate about designing systems that bridge hardware and software — from digital logic design to firmware and connected devices.
 
