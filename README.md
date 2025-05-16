@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm [Krinal Parmar]
 
-<!--
-**KrinalParmar/KrinalParmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about designing systems that bridge hardware and software — from digital logic design to firmware and connected devices.
 
-Here are some ideas to get you started:
+## 🧠 What I Work On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **VLSI & RTL Design** – Verilog, Architecture, pipelining, memory subsystems  
+- **Computer Architecture** – ISA, cache design, bus protocols, microarchitecture  
+- **Embedded Systems** – ESP32, C/C++, OTA updates, MQTT, AT commands  
+- **IoT Applications** – Sensor interfacing, secure communication, system integration  
+
+## 🛠️ Tools & Tech
+
+`Verilog` · `ESP32` · `C/C++` · `PlatformIO` · `LVGL`  
+`MQTT` · `GSM Modules` · `TinyGSM` · `AT Commands`
+
+
+
+## 📫 Get in Touch
+
+Feel free to connect or reach out:  
+[LinkedIn](https://www.linkedin.com/in/krinal-parmar-75a069249/) · [Email](mailto:krinal.nileshparmar@gmail.com)
+
+---
+
