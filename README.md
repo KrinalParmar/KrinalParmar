@@ -19,7 +19,7 @@ I'm passionate about designing systems that bridge hardware and software — fro
 ## 📫 Get in Touch
 
 Feel free to connect or reach out:  
-[LinkedIn](https://www.linkedin.com/in/krinal-parmar-75a069249/) · [Email](mailto:krinal.nileshparmar@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/krinal-parmar-75a069249/) · [Email](krinal.nileshparmar@gmail.com)
 
 ---
 
