@@ -9,10 +9,20 @@ I'm passionate about designing systems that bridge hardware and software — fro
 - **Embedded Systems** – ESP32, C/C++, OTA updates, MQTT, AT commands  
 - **IoT Applications** – Sensor interfacing, secure communication, system integration  
 
-## 🛠️ Tools & Tech
+## 🛠️ Tools & Technologies
 
-`Verilog` · `ESP32` · `C/C++` · `PlatformIO` · `LVGL`  
-`MQTT` · `GSM Modules` · `TinyGSM` · `AT Commands`
+### 🔧 Hardware & Firmware
+<img src="https://img.shields.io/badge/-Verilog-000?style=for-the-badge&logo=verilog&logoColor=white"/>  
+`ESP32` · `GSM Modules` · `PlatformIO` · `AT Commands`
+
+### 💻 Programming & Frameworks
+<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LVGL-8B5CF6?style=for-the-badge&logo=lvgl&logoColor=white"/>  
+`C/C++` · `LVGL` · `Arduino Framework`
+
+### 🌐 Connectivity & IoT
+<img src="https://img.shields.io/badge/-MQTT-FF9900?style=for-the-badge&logo=mqtt&logoColor=white"/>  
+`MQTT` · `TinyGSM` · `Secure Communication`
 
 
 
