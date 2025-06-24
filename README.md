@@ -18,11 +18,11 @@ I'm passionate about designing systems that bridge hardware and software — fro
       <b>Verilog</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/espressif/espressif-original.svg" width="40"/><br/>
+      <img src="https://www.pngwing.com/en/free-png-ahbpf" width="40"/><br/>
       <b>ESP32</b>
     </td>
     <td align="center" width="120">
-      <img src="https://avatars.githubusercontent.com/u/19829882?s=200&v=4" width="40"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg" width="40"/><br/>
       <b>PlatformIO</b>
     </td>
     <td align="center" width="120">
@@ -44,7 +44,7 @@ I'm passionate about designing systems that bridge hardware and software — fro
       <b>LVGL</b>
     </td>
     <td align="center">
-      <span style="font-size: 32px;">⚡</span><br/>
+      <img src="https://en.m.wikipedia.org/wiki/File:Arduino_Logo.svg" width="40"/><br/>
       <b>Arduino</b>
     </td>
     <td align="center">
