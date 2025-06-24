@@ -11,19 +11,52 @@ I'm passionate about designing systems that bridge hardware and software — fro
 
 ## 🛠️ Tools & Technologies
 
-### 🔧 Hardware & Firmware
-<img src="https://img.shields.io/badge/-Verilog-000?style=for-the-badge&logo=verilog&logoColor=white"/>  
-`ESP32` · `GSM Modules` · `PlatformIO` · `AT Commands`
-
-### 💻 Programming & Frameworks
-<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/-LVGL-8B5CF6?style=for-the-badge&logo=lvgl&logoColor=white"/>  
-`C/C++` · `LVGL` · `Arduino Framework`
-
-### 🌐 Connectivity & IoT
-<img src="https://img.shields.io/badge/-MQTT-FF9900?style=for-the-badge&logo=mqtt&logoColor=white"/>  
-`MQTT` · `TinyGSM` · `Secure Communication`
-
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" width="40"/><br/>
+      <b>Verilog</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/espressif/espressif-original.svg" width="40"/><br/>
+      <b>ESP32</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://avatars.githubusercontent.com/u/19829882?s=200&v=4" width="40"/><br/>
+      <b>PlatformIO</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/external-flat-juicy-fish/40/000000/external-sim-card-sim-cards-flat-flat-juicy-fish.png"/><br/>
+      <b>GSM Modules</b>
+    </td>
+    <td align="center" width="120">
+      <span style="font-size: 32px;">🛰</span><br/>
+      <b>AT Commands</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/><br/>
+      <b>C/C++</b>
+    </td>
+    <td align="center">
+      <img src="https://lvgl.io/assets/logo.svg" width="40"/><br/>
+      <b>LVGL</b>
+    </td>
+    <td align="center">
+      <span style="font-size: 32px;">⚡</span><br/>
+      <b>Arduino</b>
+    </td>
+    <td align="center">
+      <img src="https://mqtt.org/assets/img/mqtt-icon.svg" width="40"/><br/>
+      <b>MQTT</b>
+    </td>
+    <td align="center">
+      <span style="font-size: 32px;">📡</span><br/>
+      <b>TinyGSM</b>
+    </td>
+  </tr>
+</table>
 
 
 ## 📫 Get in Touch
