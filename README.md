@@ -44,7 +44,7 @@ I'm passionate about designing systems that bridge hardware and software — fro
       <b>LVGL</b>
     </td>
     <td align="center">
-      <img src="https://en.m.wikipedia.org/wiki/File:Arduino_Logo.svg" width="40"/><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Arduino_Logo_Registered.svg/640px-Arduino_Logo_Registered.svg" width="40"/><br/>
       <b>Arduino</b>
     </td>
     <td align="center">
