@@ -1,24 +1,27 @@
-<h1 align="center">Hi 👋, I'm Krinal Parmar</h1>
-<h3 align="center">I'm passionate about designing systems that bridge hardware and software — from digital logic design to firmware and connected devices.</h3>
+# 👋 Hi, I'm Krinal Parmar
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krinalparmar" alt="krinalparmar" /></a> </p>
+I'm passionate about designing systems that bridge hardware and software — from digital logic design to firmware and connected devices.
 
-- VLSI & RTL Design **Verilog, Architecture, pipelining, memory subsystems**
+## 🧠 What I Work On
 
-- IoT Applications **Sensor interfacing, secure communication, system integration**
+- **VLSI & RTL Design** – Verilog, Architecture, pipelining, memory subsystems  
+- **Computer Architecture** – ISA, cache design, bus protocols, microarchitecture  
+- **Embedded Systems** – ESP32, C/C++, OTA updates, MQTT, AT commands  
+- **IoT Applications** – Sensor interfacing, secure communication, system integration  
 
-- Computer Architecture **ISA, cache design, bus protocols, microarchitecture**
+## 🛠️ Tools & Tech
 
-- Embedded Systems **ESP32, C/C++, OTA updates, MQTT, AT commands**
+`Verilog` · `ESP32` · `C/C++` · `PlatformIO` · `LVGL`  
+`MQTT` · `GSM Modules` · `TinyGSM` · `AT Commands`
 
-- How to reach me **krinal.nileshparmar@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krinal-parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krinal-parmar" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+## 📫 Get in Touch
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krinalparmar&" alt="krinalparmar" /></p>
+
+<a href="https://www.linkedin.com/in/krinal-parmar-75a069249/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:krinal.nileshparmar@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
