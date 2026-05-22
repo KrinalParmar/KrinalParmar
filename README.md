@@ -12,7 +12,6 @@ $ whoami
 $ cat about.txt
   role:      Embedded Engineer (ESP32-S3 · ESP-IDF)
   target:    CPU Arch · SoC Validation · Hardware Systems
-  companies: AMD · ARM · Qualcomm · NVIDIA · NXP · Google · Cisco
   location:  Ahmedabad, India 🇮🇳
   passion:   "where hardware meets firmware"
 
@@ -59,7 +58,6 @@ $ ./start.sh  █
 
 ![MQTT](https://img.shields.io/badge/MQTT_(QoS,_TLS)-FF3D9A?style=flat-square&logo=mqtt&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP_(GET,_POST,_TLS)-FF6EB4?style=flat-square)
-![WebSockets](https://img.shields.io/badge/WebSockets-FF3D9A?style=flat-square)
 ![BLE](https://img.shields.io/badge/BLE_(GATT,_custom)-FF6EB4?style=flat-square&logo=bluetooth&logoColor=white)
 ![BLUFi](https://img.shields.io/badge/BLUFi_Provisioning-FF3D9A?style=flat-square)
 ![WiFi](https://img.shields.io/badge/WiFi_STA_/_AP-FF6EB4?style=flat-square)
@@ -87,54 +85,6 @@ $ ./start.sh  █
 
 ---
 
-## 🩷 `projects/`
-
-<details>
-<summary><b>Hazosense</b> &nbsp;—&nbsp; ESP32-S3 · Industrial IoT Vibration Monitor &nbsp; <img src="https://img.shields.io/badge/active-FF6EB4?style=flat-square"/></summary>
-<br>
-
-> `ESP32-S3` `ADXL355B` `SPI` `FreeRTOS` `MQTT` `Grafana` `Loki` `Custom PCB`
-
-A precision industrial vibration sensing platform built from scratch.
-
-- **Hardware** — Custom PCB with 3× ADXL355B accelerometers (one per axis) for independent per-axis vibration capture
-- **Firmware** — Register-level SPI drivers, 20-bit raw ADC assembly, full calibration pipeline (sign extension → scale factor → zero-offset subtraction)
-- **Architecture** — Dual-channel HTTP/MQTT config sync, cloud authority pattern, HMAC-SHA256 payload signing, ETag-based bandwidth efficiency
-- **Observability** — Grafana dashboards fed via Loki with custom LogQL unwrap queries for real-time accelerometer telemetry
-
-</details>
-
-<details>
-<summary><b>CPU Architecture Deep-Dive</b> &nbsp;—&nbsp; Targeting AMD · ARM · Qualcomm · NVIDIA &nbsp; <img src="https://img.shields.io/badge/ongoing-7AABF0?style=flat-square"/></summary>
-<br>
-
-> `Cache` `TLB` `Virtual Memory` `Paging` `Pipeline` `Branch Prediction` `MMIO`
-
-- Full memory hierarchy: registers → L1/L2/L3 → DRAM
-- Cache mapping strategies: direct-mapped, set-associative, fully associative
-- TLB operation and virtual-to-physical address translation pipelines
-- Page replacement policies: LRU, FIFO, Clock algorithm
-- CPU pipeline stages, hazards, branch prediction strategies
-- Memory-mapped I/O and peripheral addressing
-
-</details>
-
-<details>
-<summary><b>Custom Accelerometer Array PCB</b> &nbsp;—&nbsp; 3× ADXL355B · SPI · Precision Measurement &nbsp; <img src="https://img.shields.io/badge/shipped-555?style=flat-square"/></summary>
-<br>
-
-> `PCB Design` `ADXL355B` `SPI` `Sensor Fusion` `Calibration`
-
-- Designed and fabricated custom board with three ADXL355B sensors for per-axis vibration capture
-- Wrote complete SPI register-map drivers from scratch — no HAL abstraction
-- Implemented 20-bit two's complement decoding with proper sign extension
-- Built full calibration pipeline from raw ADC counts → physical acceleration in g
-- Applied sensor fusion across three independent axes
-
-</details>
-
----
-
 ## 🩷 `expertise.md`
 
 ```
@@ -143,7 +93,7 @@ Hardware Protocol Design           ███████████████
 IoT Connectivity (MQTT / HTTP)     ████████████████░░░░  80%
 FreeRTOS / RTOS Architecture       █████████████████░░░  85%
 CPU Architecture / Memory Systems  ███████████████░░░░░  75%
-PCB Design & Sensor Integration    ██████████████░░░░░░  72%
+Sensor Integration                 ██████████████░░░░░░  72%
 ```
 
 **Currently targeting:**
@@ -152,15 +102,6 @@ PCB Design & Sensor Integration    ██████████████░
 ![SoC Validation](https://img.shields.io/badge/SoC_Validation-FF3D9A?style=flat-square)
 ![Hardware Systems](https://img.shields.io/badge/Hardware_Systems-FF6EB4?style=flat-square)
 &nbsp;
-![AMD](https://img.shields.io/badge/AMD-7AABF0?style=flat-square)
-![ARM](https://img.shields.io/badge/ARM-7AABF0?style=flat-square)
-![Qualcomm](https://img.shields.io/badge/Qualcomm-7AABF0?style=flat-square)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-7AABF0?style=flat-square)
-![NXP](https://img.shields.io/badge/NXP-7AABF0?style=flat-square)
-![Google](https://img.shields.io/badge/Google-7AABF0?style=flat-square)
-![Cisco](https://img.shields.io/badge/Cisco-7AABF0?style=flat-square)
-
-> Not looking for software-primary roles. Looking for teams where **hardware understanding** is the core of the job.
 
 ---
 
@@ -179,8 +120,6 @@ PCB Design & Sensor Integration    ██████████████░
 │    makes the hardware invisible."       │
 └─────────────────────────────────────────┘
 ```
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=krinal-parmar.krinal-parmar&color=FF6EB4)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6EB4&height=80&section=footer" width="100%"/>
 
