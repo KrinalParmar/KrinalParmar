@@ -1,5 +1,18 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6EB4&height=120&section=header&text=Krinal%20Parmar&fontSize=36&fontColor=fff&fontAlignY=40&desc=Electronics%20%26%20Communication%20%E2%86%92%20Embedded%20Systems&descSize=14&descAlignY=65&descColor=FFD6EC" width="100%"/>
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FF6EB4&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Krinal+Parmar+%F0%9F%91%8B;Embedded+Systems+Engineer;Hardware+%E2%86%94+Firmware" alt="Krinal Parmar" />
+</h1>
+
+<p>
+  <img src="https://img.shields.io/badge/Electronics_%26_Communication_Engineer-FF6EB4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/→_Embedded_Systems-FF3D9A?style=for-the-badge&logoColor=white" />
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krinal_Parmar-FF6EB4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krinal-parmar-75a069249/)
+[![Gmail](https://img.shields.io/badge/Gmail-krinal.nileshparmar@gmail.com-FF3D9A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krinal.nileshparmar@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Ahmedabad,_India-FF6EB4?style=for-the-badge)](https://maps.app.goo.gl/ahmedabad)
+
 </div>
 
 <br>
@@ -93,7 +106,7 @@ Hardware Protocol Design           ███████████████
 IoT Connectivity (MQTT / HTTP)     ████████████████░░░░  80%
 FreeRTOS / RTOS Architecture       █████████████████░░░  85%
 CPU Architecture / Memory Systems  ███████████████░░░░░  75%
-Sensor Integration                 ██████████████░░░░░░  72%
+PCB Design & Sensor Integration    ██████████████░░░░░░  72%
 ```
 
 **Currently targeting:**
@@ -121,6 +134,5 @@ Sensor Integration                 ██████████████░
 └─────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6EB4&height=80&section=footer" width="100%"/>
-
-</div>
+<br><br>
+<sub>✦ hardware · firmware · systems ✦</sub>
